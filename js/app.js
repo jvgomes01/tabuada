@@ -1,4 +1,5 @@
 // Selecao de elementos
+console.log('aopa')
 
 const multiplacationForm = document.querySelector("#multiplicador-form");
 const numberInput = document.querySelector("#number");
